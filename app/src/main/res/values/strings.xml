@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Concert Ticket</string>
+    <string-array name="txtGroup">
+        <item>Life Revealed</item>
+        <item>Spatial Sense</item>
+        <item>Zig Zag</item>
+    </string-array>
+</resources>
